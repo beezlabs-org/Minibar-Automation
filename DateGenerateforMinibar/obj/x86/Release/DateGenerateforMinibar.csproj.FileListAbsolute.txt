@@ -1,0 +1,8 @@
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\bin\x86\Release\DateGenerateforMinibar.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\bin\x86\Release\DateGenerateforMinibar.pdb
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\bin\x86\Release\RPAHiveLib.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\obj\x86\Release\DateGenerateforMinibar.csproj.CoreCompileInputs.cache
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\obj\x86\Release\DateGenerateforMinibar.csproj.CopyComplete
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\obj\x86\Release\DateGenerateforMinibar.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\obj\x86\Release\DateGenerateforMinibar.pdb
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\DateGenerateforMinibar\obj\x86\Release\DateGenerateforMinibar.csproj.AssemblyReference.cache
