@@ -1,0 +1,13 @@
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\CsvdownloadFromMinibar.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\WebDriver.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\selenium-manager\linux\selenium-manager
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\selenium-manager\macos\selenium-manager
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\RPAHiveLib.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\obj\x86\Release\CsvdownloadFromMinibar.csproj.CoreCompileInputs.cache
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\obj\x86\Release\CsvdownloadFromMinibar.csproj.CopyComplete
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\obj\x86\Release\CsvdownloadFromMinibar.dll
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\obj\x86\Release\CsvdownloadFromMinibar.pdb
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\bin\x86\Release\CsvdownloadFromMinibar.pdb
+C:\Users\rouna\source\repos\CsvdownloadFromMinibar\CsvdownloadFromMinibar\obj\x86\Release\CsvdownloadFromMinibar.csproj.AssemblyReference.cache
